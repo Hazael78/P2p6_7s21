@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P2p6_7s21</string>
+    <string name="p1titulo">Examen</string>
+    <string name="btncalifica">Calificar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btnsig">Siguiente</string>
+    <string name="btnatras">Atras</string>
+    <string name="btnin">Iniciar Examen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Calif">Calificacion</string>
+</resources>
